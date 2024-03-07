@@ -1,8 +1,7 @@
-﻿**
-![Logo](https://i.ibb.co/ckBcdsc/yuzu.png =200x200)
+![Logo](https://i.ibb.co/ckBcdsc/yuzu.png)
 ## Fuzu
 
-**
+
 A Nintendo Switch Emulator for Windows (hopefully more in the future)
 
 ***
